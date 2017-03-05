@@ -9,4 +9,4 @@ Some command will not make sense because it use under my develop environment.
 `npm install -g git+https://git@github.com/ethaizone/wonder-tools.git`
 
 # Update
-`npm update -g git+https://git@github.com/ethaizone/wonder-tools.git`
+`npm update -g wonder-tools`
