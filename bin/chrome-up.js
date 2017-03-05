@@ -11,4 +11,4 @@ if (argv.https) {
     protocal = 'https'
 }
 
-opn(protocal + '://' + domain, {app: 'google chrome'});
+opn(protocal + '://' + domain, {app: 'chrome'});

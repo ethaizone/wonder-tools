@@ -6,4 +6,7 @@ I will focus on my OS that I will use at current time so don't expect it will wo
 Some command will not make sense because it use under my develop environment.
 
 # Install
-`npm install git+https://git@github.com/ethaizone/wonder-tools.git`
+`npm install -g git+https://git@github.com/ethaizone/wonder-tools.git`
+
+# Update
+`npm update -g git+https://git@github.com/ethaizone/wonder-tools.git`
