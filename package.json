@@ -1,6 +1,6 @@
 {
   "name": "wonder-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool collection for private use.",
   "main": "index.js",
   "scripts": {
